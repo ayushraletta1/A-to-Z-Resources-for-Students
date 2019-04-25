@@ -12,6 +12,26 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 *Image credits: Google*
 
+#### Top Websites to follow 
+
+1.   **Data Science**
+      - [Data Science Courses: R & Python Analysis Tutorials | DataCamp](http://www.datacamp.com/courses)
+      - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
+      - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
+      - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
+      - [Kaggle Learn](https://www.kaggle.com/learn/overview)
+      - [DataTau: The data science equivalent of Hacker News](http://www.datatau.com/news)
+
+2.   **Startup News and Stories**
+      -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
+      -  [Sensible Business Man - Top business ideas ( https://sensiblebusinessmen.com/)]
+      -  [YourStory](https://yourstory.com/)
+      -  [Entrepreneur.com](https://www.entrepreneur.com/)
+      -  [TechCrunch - Tech and Startup News](https://techcrunch.com/)
+      -  [ProductHunt](https://producthunt.com)
+      -  [The Hustle](https://thehustle.co/)
+
+
 ## Table of Contents :clipboard:
 
 1.  [Coding Resources - How to learn xyz ](#1-coding-resources)
@@ -924,25 +944,8 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 ---
 
-# 10. Top Websites to Follow
 
-1.   **Data Science**
-      - [Data Science Courses: R & Python Analysis Tutorials | DataCamp](http://www.datacamp.com/courses)
-      - [CSE-109 - Harvard University](http://cs109.github.io/2015/)
-      - [CSE231N - Computer Vision Stanford University](http://cs231n.stanford.edu/)
-      - [Developer Circles Data Resources](https://www.developercircleresources.com/learningPath/data/)
-      - [Kaggle Learn](https://www.kaggle.com/learn/overview)
-      - [DataTau: The data science equivalent of Hacker News](http://www.datatau.com/news)
-
-2.   **Startup News and Stories**
-      -  [YCombinator’s Hacker News](https://news.ycombinator.com/)
-      -  [YourStory](https://yourstory.com/)
-      -  [Entrepreneur.com](https://www.entrepreneur.com/)
-      -  [TechCrunch - Tech and Startup News](https://techcrunch.com/)
-      -  [ProductHunt](https://producthunt.com)
-      -  [The Hustle](https://thehustle.co/)
-
-# 11. Additional Links
+# 10. Additional Links
 
 1. [Top 10 Startup Incubator in India](https://inc42.com/resources/top-20-startup-incubators-india/) - *Startup*
 2. [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY) - *Learning*
@@ -957,7 +960,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 11. [Free Women-Only Mentorship Program](https://www.builtbygirls.com/programs/wave) - *Learning*
 
 
-# 12. Coding Bootcamps
+# 11. Coding Bootcamps
 
 1. [Lambda School](https://lambdaschool.com/)
 2. [SpringBoard](https://www.springboard.com/)
